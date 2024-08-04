@@ -1,45 +1,15 @@
 #yellow{
 	background-color:yellow;
-    border-top-style:solid;
-	border-bottom-style:solid;
-	border-left-style:solid;
-	border-right-style:solid;
-	border-top-width:1px;
-	border-bottom-width:1px;
-	border-left-width:1x;
-	border-right-width:1px;
-	border-top-color,color:rgb(0,128,0);
-	border-bottom-color,color:rgb(0,128,0);
-	border-left-color,color:rgb(0,128,0);
-	border-right-color,color:rgb(0,128,0);
+	border-width:1px;
+	border-color:green;
 }
 #red{
 	background-color:red;
-    border-top-style:solid;
-	border-bottom-style:solid;
-	border-left-style:solid;
-	border-right-style:solid;	
-	border-top-width:1px;
-	border-bottom-width:1px;
-	border-left-width:1x;
-	border-right-width:1px;
-	border-top-color,color:rgb(0,0,0);
-	border-bottom-color,color:rgb(0,0,0);
-	border-left-color,color:rgb(0,0,0);
-	border-right-color,color:rgb(0,0,0);
+	border-width:1px;
+	border-color:black;
 }
 #green{
 	background-color:green;
-    border-top-style:solid;
-	border-bottom-style:solid;
-	border-left-style:solid;
-	border-right-style:solid;
-	border-top-width:1px;
-	border-bottom-width:1px;
-	border-left-width:1x;
-	border-right-width:1px;
-	border-top-color,color:rgb(255,255,0);
-	border-bottom-color,color:rgb(255,255,0);
-	border-left-color,color:rgb(255,255,0);
-	border-right-color,color:rgb(255,255,0);
+	border-width:1px;
+	border-color:yellow;
 }
